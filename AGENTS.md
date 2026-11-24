@@ -1,5 +1,5 @@
 # Guide for coding agents
-
+d
 Read this before changing anything here. [CONTRIBUTING.md](CONTRIBUTING.md) has the rules for every contributor and
 [docs/design.md](docs/design.md) the formats and the translator's runtime contract; this file adds what an agent
 tends to get wrong.
